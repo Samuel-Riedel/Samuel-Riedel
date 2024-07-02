@@ -10,8 +10,6 @@
 
 
 
-<a href=#><img src="contributions.svg"></a>
-https://gist.github.com.ru/jcouyang/6336168ecbbf4fbdc46e.svg?username=samuel-riedel&width=400&height=60
 <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/samuel-riedel/count.svg" />
