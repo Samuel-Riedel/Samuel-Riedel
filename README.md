@@ -16,7 +16,7 @@
 </p><br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,pytorch,tensorflow,js,react,vite,next,expressjs,nodejs,mongodb,postgres,git,github,vscode,jest,postman,stackoverflow&perline=13)](#)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,js,react,nodejs,mongodb,postgres,git,github,vscode,postman,stackoverflow&perline=13)](#)<br>
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Other Skills:**  
